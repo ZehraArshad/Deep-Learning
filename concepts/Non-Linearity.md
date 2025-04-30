@@ -32,4 +32,4 @@ The above is a good example of how a XOR works provided that activation is ReLu.
 
 
 
-[Next - ]()
+[Next - Neural Networks ](Neural_Net.md)
