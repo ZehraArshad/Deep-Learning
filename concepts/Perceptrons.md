@@ -2,7 +2,7 @@ The following is how we start a DL model
 <br/>
 
 
-![alt text](Perceptron_func.png)
+![alt text](images/Perceptron_func.png)
 
 <br/>
 
@@ -23,6 +23,6 @@ where
 
 <br/>
 
-![alt text](Perceptron.png)
+![alt text](images/Perceptron.png)
 
 [Next - Non Linearity](Non-Linearity.md)

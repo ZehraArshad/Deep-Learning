@@ -2,7 +2,7 @@
 - No of classes = no of neurons
 - weights are decided by neurons in the prev layer
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 
 <br/>
@@ -15,7 +15,7 @@ In the above pic y1 = cat, y2= dog if there was a third class it would be called
 
 ### WRT 'Z2' neuron from hidden layer
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 <br/>
 
@@ -25,18 +25,18 @@ In the above pic y1 = cat, y2= dog if there was a third class it would be called
 
 <br/>
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
 <br/>
 
 - To update the model we then use empiral loss:
     - MSE
 
-    ![alt text](image-8.png)
+    ![alt text](images/image-8.png)
     
     - Cross Entropy loss
     
-    ![alt text](image-9.png)
+    ![alt text](images/image-9.png)
 
 ### Computing Losses
 
@@ -44,17 +44,22 @@ In the above pic y1 = cat, y2= dog if there was a third class it would be called
 
 <br/>
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 
 <br/>
 
 
-![alt text](image-10.png)
+![alt text](images/image-10.png)
 
 ### Updating Loss
 
 <br/>
 
-![alt text](image-11.png)
+![alt text](images/image-11.png)
 
 <br/>
+
+
+[Next - Iris](../iris.md)
+
+[Next - Deep Learning Model for Self generated Spiral](../mlp_for_spirals.md)

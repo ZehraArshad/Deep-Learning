@@ -2,7 +2,7 @@
 
 </br>
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 <br/>
 
@@ -11,14 +11,14 @@ As it can be seen from the image, that some prob are not linearly solvable. In o
 
 <br/>
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 The above is a good example of how a XOR works provided that activation is ReLu.
 
 
 <br/>
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 
 <br/>

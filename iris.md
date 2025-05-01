@@ -19,7 +19,7 @@
 
 <br/>
 
-![alt text](image.png)
+![alt text](Images/Pairplots.png)
 
 <br/>
 
@@ -37,7 +37,8 @@
 
 <br/>
 
-![alt text](image-1.png)
+![alt text](Images/CM-1.png)
+
 
 <br/>
 
@@ -53,7 +54,7 @@
 
 </br>
 
-![alt text](image-3.png)
+![alt text](Images/CM-2.png)
 
 </br>
 
@@ -71,6 +72,6 @@
 
 <br/>
 
-![alt text](image-2.png)
+![alt text](Images/CM-3.png)
 
 <br/>
