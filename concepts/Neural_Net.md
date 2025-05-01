@@ -49,9 +49,22 @@ In the above pic y1 = cat, y2= dog if there was a third class it would be called
 <br/>
 
 
+- Loss -> on every epoch 
+- Cost -> on entire model, calculated at the end using evaluate
+
+### In each cycle :
+
+- predict 
+- calculate loss
+- minimize loss
+- compute gradient
+- update weights
+
 ![alt text](images/image-10.png)
 
+
 ### Updating Loss
+
 
 <br/>
 
@@ -60,6 +73,24 @@ In the above pic y1 = cat, y2= dog if there was a third class it would be called
 <br/>
 
 
-[Next - Iris](../iris.md)
+```
+train_loss = history_mlp_val.history['loss']
+test_loss, test_accuracy = model_mlp_val.evaluate(X_test, y_test, verbose=0)
+```
 
-[Next - Deep Learning Model for Self generated Spiral](../mlp_for_spirals.md)
+## Loss Optimization Techniques
+
+- SGD (on a sample)
+- Adagrad
+- more
+
+SGD takes time, better is to use batch gradient descent
+
+
+## Some models I have built
+
+[Iris Dataset](../iris.md)
+
+[Deep Learning Model for Self generated Spirals](../mlp_for_spirals.md)
+
+[Next - Regularization](regularization.md)
